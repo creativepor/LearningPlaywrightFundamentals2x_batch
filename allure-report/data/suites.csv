@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3641","focused test","chromium","2026-07-17","passed","2026-07-17","","01_Basics\242_Test_Annotation.spec.ts","",""
+"","7097","locators are lazy, strict, and auto-wait","chromium","2026-07-17","passed","2026-07-17","","03_Locators_Commands\257_GetByRole_PW.spec.ts","",""

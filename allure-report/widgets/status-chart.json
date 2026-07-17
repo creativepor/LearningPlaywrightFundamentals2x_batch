@@ -1,0 +1,1 @@
+[{"uid":"2f7866f25f98c771","name":"focused test","time":{"start":1784257930390,"stop":1784257934031,"duration":3641},"status":"passed","severity":"normal"},{"uid":"36c2af6a4b39730b","name":"locators are lazy, strict, and auto-wait","time":{"start":1784257016625,"stop":1784257023722,"duration":7097},"status":"passed","severity":"normal"}]
