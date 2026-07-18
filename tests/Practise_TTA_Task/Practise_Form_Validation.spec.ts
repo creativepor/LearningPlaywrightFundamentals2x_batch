@@ -15,7 +15,7 @@ test('Verify that First and Last name are required fields', async ({ page }) => 
 
 
 test('Verify Email address is a required field', async ({page}) => {
-    await page.getByLabel('First name').fill('Seeta');
+    await page.getByLabel('First name').fill('Geeta');
     await page.getByLabel('Last name').fill('Rani');
     await page.getByRole('button', {name: 'Create Account'}).click();
     await expect(page.getByText('Enter a valid email address.', { exact: true })).toBeVisible();
