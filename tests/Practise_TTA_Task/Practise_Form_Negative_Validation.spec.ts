@@ -1,3 +1,5 @@
+//Perform all the Negative scenarios and edge cases validation in this script.
+
 import { test, expect } from '@playwright/test';
 
 
@@ -46,6 +48,12 @@ test('Verify the Password field', async ({page}) => {
     await expect(page.getByText('Please choose your country.', { exact: true})).toBeVisible();
     
 });
+
+test('Verify the Password max length', async ({page}) => {
+    
+});
+
+
  
 test('Verify the dropdown selection', async ({page}) => {
     await page.getByRole('combobox', { name: 'Country' }).selectOption('India');
