@@ -21,3 +21,4 @@ test("another test", async ({ page }) => {
     await page.goto("https://app.com/#signup");
     await expect(page).toHaveTitle("Sign Up");
 });
+

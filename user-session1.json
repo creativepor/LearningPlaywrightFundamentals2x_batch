@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "jwt",
+      "value": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJQb3Vsb21pIFJveSIsImV4cCI6MTc4NTU4NjI5NSwiaXNzIjoiVGVzdGVyVG9kYXkifQ.psKdhsm85HYWbecpirJSM7fx1AFcQo8vX81YUYt6looYdFvxnIuZ_-DuLip9XeEBZ-efp5YkJAtGYF-em70X9Q",
+      "domain": "www.tester-today.com",
+      "path": "/",
+      "expires": 1785327096.136627,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

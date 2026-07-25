@@ -16,4 +16,4 @@ test('fill login form', async ({ page }) => {
     const successMessage = page.getByText("You logged into a secure area!");
     await expect(successMessage).toBeVisible();
 
-});
+}); 
