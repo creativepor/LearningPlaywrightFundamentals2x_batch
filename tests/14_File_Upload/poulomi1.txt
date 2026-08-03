@@ -1,0 +1,2 @@
+This is a demo playwright project
+to do hands on for playwright automation using typescript

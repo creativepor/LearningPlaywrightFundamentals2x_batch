@@ -1,4 +1,1 @@
-# Taste (Continuously Learned by [CommandCode][cmd])
-
-[cmd]: https://commandcode.ai/
-
+- Prefers having a step-by-step `README.md` alongside Playwright test specs that explains the script in detail. Confidence: 0.8
